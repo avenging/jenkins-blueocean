@@ -54,7 +54,7 @@ multiple-scms:0.6
 openshift-client:0.9.6
 openshift-login:0.12
 openshift-pipeline:1.0.52
-openshift-sync:0.1.30
+openshift-sync:0.1.29
 parameterized-trigger:2.35.1
 pipeline-build-step:2.5.1
 pipeline-github-lib:1.0
